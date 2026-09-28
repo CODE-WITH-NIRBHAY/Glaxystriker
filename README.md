@@ -155,5 +155,3 @@ Planned improvements may include:
 * Browser-based save data
 * Performance improvements
 * Cross-platform compatibility
-```
-```
