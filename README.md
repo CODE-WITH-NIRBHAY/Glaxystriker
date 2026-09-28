@@ -42,6 +42,7 @@ Galaxystriker/
 ├── classes.py
 ├── highestLevel.txt
 └── main.py
+```
 Requirements
 Python 3.x
 Pygame
