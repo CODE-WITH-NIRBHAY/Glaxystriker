@@ -39,7 +39,6 @@ Galaxystriker/
 │   ├── Player/
 │   ├── Playing/
 │   └── Settings/
-├── .gitignore
 ├── classes.py
 ├── highestLevel.txt
 └── main.py
@@ -116,22 +115,6 @@ Contains the custom fonts used by the game's interface.
 highestLevel.txt
 
 Stores the highest recorded progression for the desktop version of the game.
-
-Git Configuration
-
-The project uses .gitignore to exclude generated and unnecessary files such as:
-
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.venv/
-venv/
-env/
-build/
-dist/
-*.spec
-Current Status
 
 Galaxy Strike is currently a Python/Pygame desktop game.
 
