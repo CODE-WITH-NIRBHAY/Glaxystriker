@@ -20,23 +20,6 @@ Galaxy Strike is a 2D space shooter game developed using Python and Pygame. The 
 - Object-Oriented Programming
 - 2D Game Development
 
-## Project Structure
-Galaxystriker/
-├── Fonts/
-│   └── Minecraft.ttf
-├── Images/
-│   ├── Enemy/
-│   ├── Explosion/
-│   ├── Guns/
-│   ├── Menu/
-│   ├── Player/
-│   ├── Playing/
-│   └── Settings/
-├── .gitignore
-├── classes.py
-├── highestLevel.txt
-└── main.py
-
 ## Requirements
 * Python 3.x
 * Pygame
